@@ -2,7 +2,7 @@
 
 
 🎓 Estudiante de **Licenciatura en Informática** en la **UNLP**  
-💻 Tengo 25 años y me apasiona el desarrollo web y la programación.  
+💻 Tengo 25 años.  
 👨‍💻 Experiencia profesional creando aplicaciones web con **JavaScript** y tecnologías modernas.
 
 ---
