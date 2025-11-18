@@ -1,8 +1,8 @@
 👋 ¡Hola! Soy Nahuel Rivero
 
-🎓 Estudiante de **Licenciatura en Informática** en la UNLP 
-💻 Tengo 25 años.
-👨‍💻 Experiencia profesional creando aplicaciones web con **JavaScript** y tecnologías modernas.
+* 🎓 Estudiante de **Licenciatura en Informática** en la UNLP
+* 💻 Tengo 25 años.
+* 👨‍💻 Experiencia profesional creando aplicaciones web con **JavaScript** y tecnologías modernas.
 
 ---
 
@@ -23,14 +23,9 @@
 </p>
 
 ---
-
 ## 🧩 Sobre mí
 
-* 📍 Vivo en Buenos Aires, Argentina
-* 💻 Creo proyectos funcionales, escalables y con buena UX
-* 🌱 Siempre aprendiendo nuevas herramientas y frameworks
-* ⚙️ Experiencia laboral en **frontend y backend**, integrando bases de datos y diseño responsive
-* 🕹️ En mi tiempo libre disfruto programar, aprender, explorar nuevas ideas, **ver películas o cine, y leer, sobre todo fantasía**.
+Actualmente soy estudiante de **Licenciatura en Informática** en la UNLP y vivo en **Buenos Aires, Argentina**. Mi enfoque profesional se centra en construir proyectos web funcionales, escalables y con una buena experiencia de usuario. Utilizo mi experiencia en **frontend y backend** para gestionar desde la integración de bases de datos hasta el diseño *responsive*, mientras me mantengo en constante aprendizaje de nuevas herramientas. En mi tiempo libre, disfruto mucho del **cine, las series y la lectura, especialmente de fantasía y ciencia ficción**.
 
 ---
 
